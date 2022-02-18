@@ -47,9 +47,16 @@ fetch('places.geojson')
             },
             pointToLayer: function (feature, latlng) {
 
+                let color = undefined;
+                if (feature.properties.type === 'Organization') {
+                    color = "#ff7800";
+                } else {
+                    color = "#0078ff";
+                }
+
                 let geojsonMarkerOptions = {
                     radius: 8,
-                    fillColor: "#FF7800",
+                    fillColor: color,
                     color: "#000",
                     weight: 1,
                     opacity: 1,
@@ -64,3 +71,17 @@ fetch('places.geojson')
     .catch(function (err) {
         console.log('error: ' + err);
     });
+
+
+/* Legend Specific */
+var legend = L.control({ position: "bottomright" });
+
+legend.onAdd = function (map) {
+    var div = L.DomUtil.create("div", "legend");
+    div.innerHTML += "<h4>Legend</h4>";
+    div.innerHTML += '<i style="background: #FF7800"></i><span>Organization</span><br>';
+    div.innerHTML += '<i style="background: #0078FF"></i><span>Ocean Feature</span><br>';
+    return div;
+};
+
+legend.addTo(map);
