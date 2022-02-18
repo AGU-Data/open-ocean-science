@@ -36,11 +36,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#bb1b1b",
-        "fill-opacity": 0.5,
         "name": "Hudson's Bay",
         "location": "Canada",
         "description": "Large bay",
