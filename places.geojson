@@ -1,126 +1,31 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.73534,
-          47.573895
-        ]
-      },
-      "properties": {
-        "name": "Memorial University of Newfoundland",
-        "type": "Organization",
-        "location": "St. John's, Newfoundland",
-        "description": "University"
-      }
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130,
-          11.35
-        ]
-      },
-      "properties": {
-        "name": "Mariana Trench",
-        "type": "Trench",
-        "location": "Western Pacific",
-        "description": "Deepest part of the ocean"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#bb1b1b",
-        "fill-opacity": 0.5,
-        "name": "Hudson's Bay",
-        "location": "Canada",
-        "description": "Large bay",
-        "type": "Bay"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -94.306640625,
-              60.37042901631508
-            ],
-            [
-              -94.21875,
-              58.90464570302001
-            ],
-            [
-              -91.58203125,
-              57.326521225217064
-            ],
-            [
-              -89.12109375,
-              56.9449741808516
-            ],
-            [
-              -86.484375,
-              55.87531083569679
-            ],
-            [
-              -83.75976562499999,
-              55.27911529201561
-            ],
-            [
-              -82.001953125,
-              54.87660665410869
-            ],
-            [
-              -82.44140625,
-              52.908902047770255
-            ],
-            [
-              -79.365234375,
-              51.781435604431195
-            ],
-            [
-              -80.33203125,
-              54.213861000644926
-            ],
-            [
-              -77.87109375,
-              55.32914440840507
-            ],
-            [
-              -76.81640625,
-              57.42129439209407
-            ],
-            [
-              -78.22265625,
-              59.40036514079251
-            ],
-            [
-              -79.1015625,
-              61.52269494598361
-            ],
-            [
-              -83.408203125,
-              62.71446210149774
-            ],
-            [
-              -88.681640625,
-              63.6267446447533
-            ],
-            [
-              -94.306640625,
-              60.37042901631508
-            ]
-          ]
-        ]
-      }
-    }
-  ]
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -52.735340, 47.573895 ] },
+            "properties": {
+                "name": "Memorial University of Newfoundland",
+                "type": "Organization",
+                "location": "St. John's, Newfoundland",
+                "description": "University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ 130, 11.35 ] },
+            "properties": {
+                "name": "Mariana Trench",
+                "type": "Trench",
+                "location": "Western Pacific",
+                "description": "Deepest part of the ocean"
+            }
+        }
+    ]
 }
