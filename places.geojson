@@ -35,6 +35,15 @@
                 "type": "Organization",
                 "location": "Washington, D.C.C",
                 "description": "Development Seed's Office (where Aimee works)"
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ 35.3780764, -120.9068551 ] },
+            "properties": {
+                "name": "Morro Rock",
+                "type": "Rock",
+                "location": "Morro Bay, California, USA",
+                "description": "An ancient volcanic plug formed by magma, this 581-foot rock is known as a harbor entrance landmark (also a place which Chris visited often when he was young)."
             }
         }        
     ]
