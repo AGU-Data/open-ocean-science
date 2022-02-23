@@ -26,6 +26,16 @@
                 "location": "Western Pacific",
                 "description": "Deepest part of the ocean"
             }
-        }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ 38.9064, -77.0244 ] },
+            "properties": {
+                "name": "Development Seed",
+                "type": "Organization",
+                "location": "Washington, D.C.C",
+                "description": "Development Seed's Office (where Aimee works)"
+            }
+        }        
     ]
 }
