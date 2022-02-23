@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [ 38.9064, -77.0244 ] },
+            "geometry": { "type": "Point", "coordinates": [ -77.0244, 38.9064 ] },
             "properties": {
                 "name": "Development Seed",
                 "type": "Organization",
@@ -39,7 +39,7 @@
         },
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [ 35.3780764, -120.9068551 ] },
+            "geometry": { "type": "Point", "coordinates": [ -120.9068551, 35.3780764 ] },
             "properties": {
                 "name": "Morro Rock",
                 "type": "Rock",
