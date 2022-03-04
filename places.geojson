@@ -19,6 +19,28 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ 0.08055556, 52.2125 ] },
+            "properties": {
+                "name": "British Antarctic Survey",
+                "type": "Organization",
+                "location": "Cambridge, UK",
+                "description": "Research Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ocean Ecology Lab @ NASA/GSFC/SED",
+                "location": "Greenbelt, MD USA",
+                "description": "Site of the Ocean Ecoloy Lab."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.853731870, 38.9990169734]
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [ 130, 11.35 ] },
             "properties": {
                 "name": "Mariana Trench",
@@ -58,15 +80,24 @@
             }
         },
         {
-          "type": "Feature",
-          "geometry": { "type": "Point", "coordinates": [ -42.0391845703125,-22.98873816096073] },
-          "properties": {
-            "name": "Cabo Frio Location",
-            "type": "Upwelling zone",
-            "location": "Cabo Frio, Brazil",
-            "description": "it is hard to swim in there."
-
+             "type": "Feature",
+             "geometry": { "type": "Point", "coordinates": [ -42.0391845703125,-22.98873816096073] },
+             "properties": {
+                 "name": "Cabo Frio Location",
+                 "type": "Upwelling zone",
+                 "location": "Cabo Frio, Brazil",
+                 "description": "it is hard to swim in there."
+              }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -217.800435, 11.3493126 ] },
+            "properties": {
+                "name": "Mariana Trench",
+                "type": "Bathymetry Feature",
+                "location": "Philippine Sea",
+                "description": "The deepest underwater trench on Earth."
+            }
         }
-    }
     ]
 }
