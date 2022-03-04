@@ -19,6 +19,16 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ 0.08055556, 52.2125 ] },
+            "properties": {
+                "name": "British Antarctic Survey",
+                "type": "Organization",
+                "location": "Cambridge, UK",
+                "description": "Research Centre"
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "name": "Ocean Ecology Lab @ NASA/GSFC/SED",
                 "location": "Greenbelt, MD USA",
