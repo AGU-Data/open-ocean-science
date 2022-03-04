@@ -7,7 +7,7 @@
     {
         "name": "Ian Carroll",
         "organization": "NASA GSFC",
-        "github": "itcarroll",
+        "github": "itcarroll"
     },
     {
         "name": "Chris Erdmann",
@@ -18,6 +18,26 @@
         "name": "James Munroe",
         "organization": "Memorial University of Newfoundland",
         "github": "jmunroe"
+    },
+    {
+        "name": "Mikhail Schee",
+        "organization": "University of Toronto",
+        "github": "scheemik"
+    },
+    {
+        "name": "Ali Siddiqui",
+        "organization": "Johns Hopkins University",
+        "github": "asiddi24"
+    },
+    {
+        "name": "Paige Martin",
+        "organization": "Columbia University/Australian National University",
+        "github": "paigem"
+    },
+    {
+        "name": "Kim Martini",
+        "organization": "Sea-Bird Scientific",
+        "github": "rejectedbanana"
     },
     {
         "name": "Yuhan 'Douglas' Rao",
@@ -47,11 +67,26 @@
     {
         "name": "Julius Busecke",
         "organization": "Columbia University",
-        "github": "jbusecke",
+        "github": "jbusecke"
+    },
+    {
+        "name": "Victoria Whitley",
+        "organization": "University of Maryland",
+        "github": "whitleyv"
     },
        {
         "name": "Shane Elipot",
         "organization": "University of Miami",
         "github": "selipot"
+    },
+    {
+        "name": "G Jake Gebbie",
+        "organization": "Woods Hole Oceanographic Institution",
+        "github": "ggebbie",
+    },
+    {
+        "name": "Reint Fischer",
+        "organization": "University of Maryland",
+        "github": "reint-fischer"
     }
 ]

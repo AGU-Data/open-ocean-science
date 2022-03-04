@@ -19,6 +19,28 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ 0.08055556, 52.2125 ] },
+            "properties": {
+                "name": "British Antarctic Survey",
+                "type": "Organization",
+                "location": "Cambridge, UK",
+                "description": "Research Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ocean Ecology Lab @ NASA/GSFC/SED",
+                "location": "Greenbelt, MD USA",
+                "description": "Site of the Ocean Ecoloy Lab."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.853731870, 38.9990169734]
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [ 130, 11.35 ] },
             "properties": {
                 "name": "Mariana Trench",
@@ -64,8 +86,28 @@
                  "name": "Goose Rocks Beach",
                  "type": "Beach",
                  "location": "Kennebunkport, Maine, USA",
-                 "description": "Sandy beach in Maine with seals",   
+                 "description": "Sandy beach in Maine with seals"
                }
-         }
-        
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -50.80078125, 69.16255790810501 ] },
+            "properties": {
+                "name": "Illulisat Icefjord",
+                "type": "Ice Stream",
+                "location": "Illulisat (Jakobshavn), Greenland",
+                "description": "Probably the origin of the iceberg that sank the Titanic."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -217.800435, 11.3493126 ] },
+            "properties": {
+                "name": "Mariana Trench",
+                "type": "Bathymetry Feature",
+                "location": "Philippine Sea",
+                "description": "The deepest underwater trench on Earth."
+            }
+        }
+    ]
 }
