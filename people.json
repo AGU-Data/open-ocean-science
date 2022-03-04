@@ -79,7 +79,12 @@
         "organization": "University of Miami",
         "github": "selipot"
     },
-       {
+    {
+        "name": "G Jake Gebbie",
+        "organization": "Woods Hole Oceanographic Institution",
+        "github": "ggebbie",
+    },
+    {
         "name": "Reint Fischer",
         "organization": "University of Maryland",
         "github": "reint-fischer"

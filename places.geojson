@@ -81,6 +81,16 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -50.80078125, 69.16255790810501 ] },
+            "properties": {
+                "name": "Illulisat Icefjord",
+                "type": "Ice Stream",
+                "location": "Illulisat (Jakobshavn), Greenland",
+                "description": "Probably the origin of the iceberg that sank the Titanic."
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [ -217.800435, 11.3493126 ] },
             "properties": {
                 "name": "Mariana Trench",
