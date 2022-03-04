@@ -80,6 +80,16 @@
             }
         },
         {
+             "type": "Feature",
+             "geometry": { "type": "Point", "coordinates": [ -42.0391845703125,-22.98873816096073] },
+             "properties": {
+                 "name": "Cabo Frio Location",
+                 "type": "Upwelling zone",
+                 "location": "Cabo Frio, Brazil",
+                 "description": "it is hard to swim in there."
+              }
+        },
+        {
               "type": "Feature",
               "geometry": { "type": "Point", "coordinates": [-70.4168701171875, 43.39257476235773] },
               "properties": {
