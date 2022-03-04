@@ -18,5 +18,20 @@
         "name": "Mathew Biddle",
         "organization": "NOAA Integrated Ocean Observing System",
         "github": "MathewBiddle"
+    },    
+    {
+        "name": "Chelle Gentemann",
+        "organization": "Farallon Institute",
+        "github": "cgentemann"
+    },
+    {
+        "name": "Julius Busecke",
+        "organization": "Columbia University",
+        "github": "jbusecke",
+    },
+       {
+        "name": "Shane Elipot",
+        "organization": "University of Miami",
+        "github": "selipot"
     }
 ]
