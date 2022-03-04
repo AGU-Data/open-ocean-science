@@ -39,6 +39,16 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -122.7, 38.5 ] },
+            "properties": {
+                "name": "Santa Rosa",
+                "type": "City",
+                "location": "Santa Rosa, CA",
+                "description": "Chelle's Office"
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [ -120.9068551, 35.3780764 ] },
             "properties": {
                 "name": "Morro Rock",

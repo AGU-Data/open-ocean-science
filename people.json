@@ -5,6 +5,11 @@
         "github": "abarciauskas-bgse"
     },
     {
+        "name": "Ian Carroll",
+        "organization": "NASA GSFC",
+        "github": "itcarroll"
+    },
+    {
         "name": "Chris Erdmann",
         "organization": "American Geophysical Union (AGU)",
         "github": "libcce"
@@ -18,5 +23,65 @@
         "name": "Danilo A. Silva",
         "organization": "Oceanographic Institute, University of Sao Paulo",
         "github": "nilodna"
+    },
+    {
+        "name": "Mikhail Schee",
+        "organization": "University of Toronto",
+        "github": "scheemik"
+    },
+    {
+        "name": "Ali Siddiqui",
+        "organization": "Johns Hopkins University",
+        "github": "asiddi24"
+    },
+    {
+        "name": "Paige Martin",
+        "organization": "Columbia University/Australian National University",
+        "github": "paigem"
+    },
+    {
+        "name": "Kim Martini",
+        "organization": "Sea-Bird Scientific",
+        "github": "rejectedbanana"
+    },
+    {
+        "name": "Yuhan 'Douglas' Rao",
+        "organization": "NC Institude for Climate Studies",
+        "github": "geo-yrao"
+    },
+    {
+        "name": "Dan(i) Jones",
+        "organization": "British Antarctic Survey",
+        "github": "DanJonesOcean"
+    },
+    {
+        "name": "Hillary Scannell",
+        "organization": "Jupiter Intelligence",
+        "github": "hscannell"
+    },
+    {
+        "name": "Mathew Biddle",
+        "organization": "NOAA Integrated Ocean Observing System",
+        "github": "MathewBiddle"
+    },    
+    {
+        "name": "Chelle Gentemann",
+        "organization": "Farallon Institute",
+        "github": "cgentemann"
+    },
+    {
+        "name": "Julius Busecke",
+        "organization": "Columbia University",
+        "github": "jbusecke"
+    },
+    {
+        "name": "Victoria Whitley",
+        "organization": "University of Maryland",
+        "github": "whitleyv"
+    },
+    {
+        "name": "Shane Elipot",
+        "organization": "University of Miami",
+        "github": "selipot"
     }
 ]
