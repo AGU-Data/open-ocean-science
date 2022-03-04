@@ -29,6 +29,18 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "Ocean Ecology Lab @ NASA/GSFC/SED",
+                "location": "Greenbelt, MD USA",
+                "description": "Site of the Ocean Ecoloy Lab."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.853731870, 38.9990169734]
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [ 130, 11.35 ] },
             "properties": {
                 "name": "Mariana Trench",
