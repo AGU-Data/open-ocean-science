@@ -19,6 +19,28 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ 0.08055556, 52.2125 ] },
+            "properties": {
+                "name": "British Antarctic Survey",
+                "type": "Organization",
+                "location": "Cambridge, UK",
+                "description": "Research Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ocean Ecology Lab @ NASA/GSFC/SED",
+                "location": "Greenbelt, MD USA",
+                "description": "Site of the Ocean Ecoloy Lab."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.853731870, 38.9990169734]
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [ 130, 11.35 ] },
             "properties": {
                 "name": "Mariana Trench",
@@ -39,14 +61,24 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -122.7, 38.5 ] },
+            "properties": {
+                "name": "Santa Rosa",
+                "type": "City",
+                "location": "Santa Rosa, CA",
+                "description": "Chelle's Office"
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [ -120.9068551, 35.3780764 ] },
             "properties": {
                 "name": "Morro Rock",
                 "type": "Rock",
                 "location": "Morro Bay, California, USA",
                 "description": "An ancient volcanic plug formed by magma, this 581-foot rock is known as a harbor entrance landmark (also a place which Chris visited often when he was young)."
-            },
-        }
+            }
+        },
         {
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [ -50.80078125, 69.16255790810501 ] },
@@ -55,7 +87,17 @@
                 "type": "Ice Stream",
                 "location": "Illulisat (Jakobshavn), Greenland",
                 "description": "Probably the origin of the iceberg that sank the Titanic."
-            },
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -217.800435, 11.3493126 ] },
+            "properties": {
+                "name": "Mariana Trench",
+                "type": "Bathymetry Feature",
+                "location": "Philippine Sea",
+                "description": "The deepest underwater trench on Earth."
+            }
         }
-  ]
+    ]
 }
