@@ -56,6 +56,16 @@
                 "location": "Morro Bay, California, USA",
                 "description": "An ancient volcanic plug formed by magma, this 581-foot rock is known as a harbor entrance landmark (also a place which Chris visited often when he was young)."
             }
-        }        
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -217.800435, 11.3493126 ] },
+            "properties": {
+                "name": "Mariana Trench",
+                "type": "Bathymetry Feature",
+                "location": "Philippine Sea",
+                "description": "The deepest underwater trench on Earth."
+            }
+        }
     ]
 }
