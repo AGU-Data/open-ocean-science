@@ -5,6 +5,11 @@
         "github": "abarciauskas-bgse"
     },
     {
+        "name": "Ian Carroll",
+        "organization": "NASA GSFC",
+        "github": "itcarroll",
+    },
+    {
         "name": "Chris Erdmann",
         "organization": "American Geophysical Union (AGU)",
         "github": "libcce"
@@ -18,5 +23,25 @@
         "name": "Hillary Scannell",
         "organization": "Jupiter Intelligence",
         "github": "hscannell"
+    },
+    {
+        "name": "Mathew Biddle",
+        "organization": "NOAA Integrated Ocean Observing System",
+        "github": "MathewBiddle"
+    },    
+    {
+        "name": "Chelle Gentemann",
+        "organization": "Farallon Institute",
+        "github": "cgentemann"
+    },
+    {
+        "name": "Julius Busecke",
+        "organization": "Columbia University",
+        "github": "jbusecke",
+    },
+       {
+        "name": "Shane Elipot",
+        "organization": "University of Miami",
+        "github": "selipot"
     }
 ]
