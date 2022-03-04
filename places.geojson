@@ -47,21 +47,14 @@
                 "description": "An ancient volcanic plug formed by magma, this 581-foot rock is known as a harbor entrance landmark (also a place which Chris visited often when he was young)."
             }
         },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cabo Frio Location",
-        "type: "Upwelling zone",
-        "location": "Cabo Frio, Brazil",
-        "description": "it is hard to swimm in there."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.0391845703125,
-          -22.98873816096073
-        ]
-      }
-    }
+        {
+          "type": "Feature",
+          "geometry": { "type": "Point", "coordinates": [ -42.0391845703125,-22.98873816096073] },
+          "properties": {
+            "name": "Cabo Frio Location",
+            "type: "Upwelling zone",
+            "location": "Cabo Frio, Brazil",
+            "description": "it is hard to swimm in there."
+        }
     ]
 }
