@@ -45,7 +45,16 @@
                 "type": "Rock",
                 "location": "Morro Bay, California, USA",
                 "description": "An ancient volcanic plug formed by magma, this 581-foot rock is known as a harbor entrance landmark (also a place which Chris visited often when he was young)."
-            }
-        }        
-    ]
+            },
+        }
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -50.80078125, 69.16255790810501 ] },
+            "properties": {
+                "name": "Illulisat Icefjord",
+                "type": "Ice Stream",
+                "location": "Illulisat (Jakobshavn), Greenland",
+                "description": "Probably the origin of the iceberg that sank the Titanic."
+            },
+        }
 }
