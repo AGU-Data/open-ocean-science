@@ -9,12 +9,12 @@
     "features": [
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [ -52.735340, 47.573895 ] },
+            "geometry": { "type": "Point", "coordinates": [ 38.88359940256533, -77.01630005767282 ] },
             "properties": {
-                "name": "Memorial University of Newfoundland",
+                "name": "NASA Headquarters",
                 "type": "Organization",
-                "location": "St. John's, Newfoundland",
-                "description": "University"
+                "location": "Washington DC",
+                "description": "Federal Agency"
             }
         },
         {
