@@ -9,7 +9,7 @@
     "features": [
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [ 38.88359940256533, -77.01630005767282 ] },
+            "geometry": { "type": "Point", "coordinates": [ -77.01630005767282, 38.88359940256533 ] },
             "properties": {
                 "name": "NASA Headquarters",
                 "type": "Organization",
@@ -25,16 +25,6 @@
                 "type": "Trench",
                 "location": "Western Pacific",
                 "description": "Deepest part of the ocean"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [ -77.0244, 38.9064 ] },
-            "properties": {
-                "name": "Development Seed",
-                "type": "Organization",
-                "location": "Washington, D.C.C",
-                "description": "Development Seed's Office (where Aimee works)"
             }
         },
         {
