@@ -23,7 +23,7 @@ A [GeoJSON](https://geojson.org/) file is a type of JSON file that is used for e
 
 ## Task 3 (if we have time)
 
-Create your own website
+Create your own website that will look like [my website](https://cgentemann.github.io/)
 
 ### Setting Up your Jekyll Academic Repository:
 - From your main profile page in GitHub click on New Repository
