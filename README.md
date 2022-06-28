@@ -19,7 +19,7 @@ Add your organization and favourite ocean feature to the `places.geojson` file. 
 A [GeoJSON](https://geojson.org/) file is a type of JSON file that is used for encoding a variety of geographic data. 
  Please note that is GeoJSON the coordinates are given by [ *longitude*, *latitude* ].
 
- The website https://geojson.org has a **very** useful editor that can be used to find the coordinates of any feature by using the tools provided.  Copy and paste the entire `places.geojson` into this editor and then copy it back to GitHub to commit your changes.
+ The website [https://geoman.io/geojson-editor](https://geoman.io/geojson-editor) has a **very** useful editor that can be used to find the coordinates of any feature by using the tools provided.  Copy and paste the entire `places.geojson` into this editor and then copy it back to GitHub to commit your changes.
 
 ## Task 3 (if we have time)
 
