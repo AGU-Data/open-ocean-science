@@ -3,8 +3,8 @@
 ## GHRSST Science Team Meeting 2022
 
 Organizers
-- James Munroe @jmunroe
 - Chelle Gentemann @cgentemann
+- Ed Armstrong @Edshred2000
 
 ## Task 1
 
