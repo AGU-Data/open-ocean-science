@@ -1,41 +1,43 @@
 {
     "type": "FeatureCollection",
-    "crs": {
-        "type": "name",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.01630005767282, 38.88359940256533]
+        },
         "properties": {
-            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        }
-    },
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [ -77.01630005767282, 38.88359940256533 ] },
-            "properties": {
-                "name": "NASA Headquarters",
-                "type": "Organization",
-                "location": "Washington DC",
-                "description": "Federal Agency"
-            }
+            "name": "NASA Headquarters",
+            "type": "Organization",
+            "location": "Washington DC",
+            "description": "Federal Agency"
         },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [ 130, 11.35 ] },
-            "properties": {
-                "name": "Mariana Trench",
-                "type": "Trench",
-                "location": "Western Pacific",
-                "description": "Deepest part of the ocean"
-            }
+        "id": "cd157e84-15a9-4a72-a0e6-03ea148fb023"
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [130, 11.35]
         },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [ -120.9068551, 35.3780764 ] },
-            "properties": {
-                "name": "Morro Rock",
-                "type": "Rock",
-                "location": "Morro Bay, California, USA",
-                "description": "An ancient volcanic plug formed by magma, this 581-foot rock is known as a harbor entrance landmark (also a place which Chris visited often when he was young)."
-            }
-        }        
-    ]
+        "properties": {
+            "name": "Mariana Trench",
+            "type": "Trench",
+            "location": "Western Pacific",
+            "description": "Deepest part of the ocean"
+        },
+        "id": "1ec6b5c7-882f-4a88-841e-a8556ff6ae9b"
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-120.9068551, 35.3780764]
+        },
+        "properties": {
+            "name": "Morro Rock",
+            "type": "Rock",
+            "location": "Morro Bay, California, USA",
+            "description": "An ancient volcanic plug formed by magma, this 581-foot rock is known as a harbor entrance landmark (also a place which Chris visited often when he was young)."
+        },
+        "id": "e819bfc4-d1e5-4c9d-b26b-918ec7edb956"
+    }]
 }
