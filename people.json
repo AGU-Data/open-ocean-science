@@ -34,9 +34,14 @@
         "organization": "ISMAR CNR",
         "github": "andreapisano"
     },
+          {
+        "name": "Anne O'Carroll",
+        "organization": "EUMETSAT ",
+        "github": "annegsj"
+    },
 {
         "name": "Chunxue Yang",
         "organization": "ISMAR CNR",
         "github": "chunxueyang"
-    }
+    },
 ]
