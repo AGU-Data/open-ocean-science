@@ -30,7 +30,20 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-120.9068551, 35.3780764]
+            "coordinates": [130, 11.35]
+        },
+        "properties": {
+            "name": "Eastern Thwaites Polynya",
+            "type": "Polynya",
+            "location": "West Antarctica",
+            "description": "Open water"
+        },
+        "id": "1ec6b5c7-882f-4a88-841e-a8556ff6ae9z"
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-105.24, -74.93]
         },
         "properties": {
             "name": "Morro Rock",
