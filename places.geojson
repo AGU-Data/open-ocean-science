@@ -118,6 +118,15 @@
                 "type": "Bathymetry Feature",
                 "location": "Philippine Sea",
                 "description": "The deepest underwater trench on Earth."
+            },
+        }
+             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [ -32.020379, 17.862494 ] },
+            "properties": {
+                "name": "Benguela",
+                "type": "Upwelling",
+                "location": "West Coast South Africa",
+                "description": "The coolest place to study HABs."
             }
         }
     ]
