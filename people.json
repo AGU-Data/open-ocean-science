@@ -10,8 +10,44 @@
         "github": "pcornillon"
     },
     {
+        "name": "Andy Harris",
+        "organization": "Dis",
+        "github": "andy123harris"
+    },
+    {
+        "name": "Tasha Snow",
+        "organization": "Colorado School of Mines",
+        "github": "tsnow03"
+    },
+    {
         "name": "James Munroe",
         "organization": "Memorial University of Newfoundland",
         "github": "jmunroe"
-    }
+    },
+    {
+        "name": "Sandra Castro",
+        "organization": "University of Colorado",
+        "github": "M0nstrico"
+    },
+    {
+      {
+        "name": "Edward Armstrong",
+        "organization": "NASA JPL PO.DAAC / CalTech ",
+        "github": "edshred2000"
+    },
+    {
+        "name": "Andrea Pisano",
+        "organization": "ISMAR CNR",
+        "github": "andreapisano"
+    },
+          {
+        "name": "Anne O'Carroll",
+        "organization": "EUMETSAT ",
+        "github": "annegsj"
+    },
+{
+        "name": "Chunxue Yang",
+        "organization": "ISMAR CNR",
+        "github": "chunxueyang"
+    },
 ]
