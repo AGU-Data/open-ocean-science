@@ -37,17 +37,22 @@
     {
         "name": "Ana Oliveira",
         "organization": "+ATLANTIC CoLAB",
-        "github": "anolive"    },
+        "github": "anolive"    
+    },
     {
         "name": "James Munroe",
         "organization": "Memorial University of Newfoundland",
         "github": "jmunroe"
-    }
-        {
+    },
+    {
+        "name": "Christopher Merchant",
+        "organization": "University of Reading",
+        "github": "cjmerchant"
+    },
+    {
         "name": "Cristina González-Haro",
         "organization": "Institut Cièncias del Mar (ICM-CSIC)",
         "github": "cgharo"
-    }
     },
     {
         "name": "Sandra Castro",
