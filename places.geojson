@@ -26,23 +26,19 @@
             "description": "Deepest part of the ocean"
         },
         "id": "1ec6b5c7-882f-4a88-841e-a8556ff6ae9b"
-   
-    }, {
+    },  {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [41.390205, 2.154007]
+            "coordinates": [13.43, 41.26]
         },
         "properties": {
-            "name": "ICM-CSIC",
-            "type": "Science Institute",
-            "location": "Medirerranean Sea",
-            "description": "We are here!"
+            "name": "Sperlonga",
+            "type": "Marker",
+            "location": "Mediterranean Sea",
+            "description": "Lovely sea town"
         },
-        "id": "1ec6b5c7-882f-4a88-841e-a8556ff6ae9b"
-        
-        
-    }, {
+    },{
         "type": "Feature",
         "geometry": {
             "type": "Point",
@@ -69,18 +65,6 @@
         },
         "id": "e819bfc4-d1e5-4c9d-b26b-918ec7edb956"
     }, {
-        "type": "Feature",
-        "properties": {
-            "shape": "Marker",
-            "name": "LISBON",
-            "category": "default"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-9.13211, 38.728279]
-        },
-        "id": "c33d6d1f-5680-475f-82b9-12f9af0a3d82"
-    }{
         "type": "Feature",
         "properties": {
             "shape": "Marker",
