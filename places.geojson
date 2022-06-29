@@ -56,6 +56,18 @@
         "type": "Feature",
         "properties": {
             "shape": "Marker",
+            "name": "LISBON",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-9.13211, 38.728279]
+        },
+        "id": "c33d6d1f-5680-475f-82b9-12f9af0a3d82"
+    }{
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
             "name": "Chris Merchant's office",
             "category": "default"
         },
