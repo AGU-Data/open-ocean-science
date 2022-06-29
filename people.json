@@ -5,13 +5,18 @@
         "github": "cgentemann"
     },
     {
+        "name": "Tasha Snow",
+        "organization": "Colorado School of Mines",
+        "github": "tsnow03"
+    },
+    {
         "name": "James Munroe",
         "organization": "Memorial University of Newfoundland",
         "github": "jmunroe"
-    }
+    },
     {
         "name": "Christopher Merchant",
         "organization": "University of Reading",
         "github": "cjmerchant"
-    },
+    }
 ]
