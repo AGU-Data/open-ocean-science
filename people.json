@@ -18,10 +18,15 @@
         "name": "James Munroe",
         "organization": "Memorial University of Newfoundland",
         "github": "jmunroe"
-    },
+    }
       {
         "name": "Edward Armstrong",
         "organization": "NASA JPL PO.DAAC / CalTech ",
         "github": "edshred2000"
-    },
+    }
+    {
+        "name": "Andrea Pisano",
+        "organization": "ISMAR CNR",
+        "github": "andreapisano"
+    }
 ]
