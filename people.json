@@ -5,13 +5,83 @@
         "github": "cgentemann"
     },
     {
+        "name": "Eva Flo",
+        "organization": "ICM-CSIC",
+        "github": "Flonxi"
+    },
+    {
+        "name": "Ana Ruescas",
+        "organization": "Brockmann Consult",
+        "github": "anaruescas"
+    },
+      {
+        "name": "Claudia Fanelli",
+        "organization": "CNR Institute of Marine Sciences",
+        "github": "claudiafanelli"
+    },
+    {
+        "name": "Peter Cornillon",
+        "organization": "University of Rhode Island",
+        "github": "pcornillon"
+    },
+    {
+        "name": "Andy Harris",
+        "organization": "Dis",
+        "github": "andy123harris"
+    },
+    {
+        "name": "Tasha Snow",
+        "organization": "Colorado School of Mines",
+        "github": "tsnow03"
+    },
+    {
+        "name": "Ana Oliveira",
+        "organization": "+ATLANTIC CoLAB",
+        "github": "anolive"    
+    },
+    {
         "name": "James Munroe",
         "organization": "Memorial University of Newfoundland",
         "github": "jmunroe"
-    }
-        {
+    },
+    {
         "name": "Christopher Merchant",
         "organization": "University of Reading",
         "github": "cjmerchant"
-    }
+    },
+    {
+        "name": "Cristina González-Haro",
+        "organization": "Institut Cièncias del Mar (ICM-CSIC)",
+        "github": "cgharo"
+    },
+    {
+        "name": "Sandra Castro",
+        "organization": "University of Colorado",
+        "github": "M0nstrico"
+    },
+    {
+        "name": "Edward Armstrong",
+        "organization": "NASA JPL PO.DAAC / CalTech ",
+        "github": "edshred2000"
+    },
+    {
+        "name": "Jean-François Cayula",
+        "organization": "Peraton",
+        "github": "jfc2022
+    },
+    {
+        "name": "Andrea Pisano",
+        "organization": "ISMAR CNR",
+        "github": "andreapisano"
+    },
+          {
+        "name": "Anne O'Carroll",
+        "organization": "EUMETSAT ",
+        "github": "annegsj"
+    },
+    {
+        "name": "Chunxue Yang",
+        "organization": "ISMAR CNR",
+        "github": "chunxueyang"
+    },
 ]
