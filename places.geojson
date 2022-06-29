@@ -39,5 +39,18 @@
             "description": "An ancient volcanic plug formed by magma, this 581-foot rock is known as a harbor entrance landmark (also a place which Chris visited often when he was young)."
         },
         "id": "e819bfc4-d1e5-4c9d-b26b-918ec7edb956"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Chris Merchant's office",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-0.937485, 51.438815]
+        },
+        "id": "07e59dc5-7a60-42ca-89fb-79c9285917bb"
     }]
+}]
 }
