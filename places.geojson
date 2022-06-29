@@ -26,6 +26,22 @@
             "description": "Deepest part of the ocean"
         },
         "id": "1ec6b5c7-882f-4a88-841e-a8556ff6ae9b"
+   
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [41.390205, 2.154007]
+        },
+        "properties": {
+            "name": "ICM-CSIC",
+            "type": "Science Institute",
+            "location": "Medirerranean Sea",
+            "description": "We are here!"
+        },
+        "id": "1ec6b5c7-882f-4a88-841e-a8556ff6ae9b"
+        
+        
     }, {
         "type": "Feature",
         "geometry": {
